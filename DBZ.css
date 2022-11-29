@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(0, 89, 255);
+}
+
+
+.wrapper{
+height: 420px;
+width: 654px;
+margin:50px auto ;
+border-radius:7px 7px 7px 7px ;
+-webkit-box-shadow:0px 14px 32px 0px rgba(0,0,0,0,15);
+-moz-box-shadow:0px 14px 32px 0px rgba(0,0,0,0,15);
+box-shadow: 0px 14px 32px 0px rgba(0,0,0,0,15);
+}
+.produto-info{
+
+  float: left;
+  height:100000000px;
+  width: 400px;;
+  border-radius: 0 7px 10px 7px;
+  background-color: rgb(0, 89, 255);
+}
+
+.produto-texto{
+ height: 400px;
+ width: 327px;
+
+}
+.produto-texto h1{
+ margin:0 0 0 50px;
+ padding-top: 50px;
+ font-size: 70px;
+ color: rgba(224, 8, 8, 0.301);
+}
+
+.produto-texto h1,
+.produto-texto h2{
+  margin:0 0 40px 38px;  
+ font-size: 13px;
+ font-family:' Raleway' sans-serif;
+ font-weight:400 ;
+ text-transform: uppercase;
+ color: rgb(253, 2, 211);
+ letter-spacing: 0.2em;
+
+} 
+.produto-texto p{
+ height: 525px;
+margin: 0 0 0 38px;
+font-family: 'Playfair Display' serif;
+color:rgb(163, 24, 24);
+line-height: 1.7em;
+font-size: 15px;
+font-weight: lighter;
+overflow: hidden;
+
+}
