@@ -1,0 +1,14 @@
+.cabeçalho-imagem{
+
+background-color: aliceblue;
+color: aliceblue;
+display: flex; 
+justify-content: space-around;
+
+
+}
+.nomeli{
+display:inline-block ;
+
+
+}
